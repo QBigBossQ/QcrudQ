@@ -1,6 +1,6 @@
 var express = require("express");
 var bodyParser = require("body-parser");
-var PORT = process.env.PORT || 8080; //1st part for HEROKU. 8080 for local machine
+var PORT = process.env.PORT || 3000; //1st part for HEROKU. 8080 for local machine
 var app = express();
 // ******* [ Above reserved for initializing ] *********
 
