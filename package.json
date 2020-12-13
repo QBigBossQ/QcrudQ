@@ -15,9 +15,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tomkim825/burger/issues"
+    "url": "https://github.com/QBigBossQ/QcrudQ/issues"
   },
-  "homepage": "https://github.com/tomkim825/burger#readme",
+  "homepage": "https://github.com/QBigBossQ/QcrudQ#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
